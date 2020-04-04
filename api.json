@@ -2,5 +2,5 @@
     "reg":"http://47.96.166.100:5460/api/sn/reg",
     "check":"http://47.96.166.100:5460/api/sn/check",
     "c_log":"http://47.96.166.100:5460/api/sn/c_log",
-    "sign":"http://www.openstar.cc/sign.json"
+    "sign":"https://www.openstar.cc/sign.json"
 }
