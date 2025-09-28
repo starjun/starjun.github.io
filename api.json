@@ -1,6 +1,6 @@
 {
-    "reg":"http://139.198.17.51:5460/api/snnew/reg",
-    "check":"http://139.198.17.51:5460/api/snnew/check",
-    "c_log":"http://139.198.17.51:5460/api/snnew/c_log",
+    "reg":"http://106.53.220.204:5460/api/sn/reg",
+    "check":"http://106.53.220.204:5460/api/sn/check",
+    "c_log":"http://106.53.220.204:5460/api/sn/c_log",
     "sign":"https://www.openstar.cc/sign.json"
 }
